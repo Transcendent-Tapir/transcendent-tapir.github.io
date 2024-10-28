@@ -8,12 +8,14 @@ Transcendent Tapir is a queer-owned game studio based in Michigan, making indie 
 
  Distorted Domains | Spectral Sleuths | Supernatural Sapphics
  :-: | :-: | :-:
-[{cover image here}](https://transcendent-tapir.github.io/Distorted-Domains) | [{cover image here}](https://transcendent-tapir.github.io/Spectral-Sleuths) | [![Supernatural Sapphics](images/SupSapph2.png)](https://transtapir.games/supernatural-sapphics)
+[![Distorted Domains](images/DD%20Logo-Color3.png)](https://transcendent-tapir.github.io/Distorted-Domains) | [{cover image here}](https://transcendent-tapir.github.io/Spectral-Sleuths) | [![Supernatural Sapphics](images/SupSapph2.png)](https://transtapir.games/supernatural-sapphics)
 A gonzo science fantasy adventure game using Distortion Dice | A game of ordinary people investigating supernatural phenomena using Distortion Dice | A Distortion Dice game about the relationships between creatures of the void and the humans close to them
 
 ### Video Games
 
-The Meowty Mage
+#### The Meowty Mage
+
+The Meowty Mage is an in-development card-based survivors-like game where you play a cat mage fighting through hordes of undead in order to rescue members of your village.
 
 ## The Team
 
