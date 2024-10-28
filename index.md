@@ -8,7 +8,7 @@ Transcendent Tapir is a queer-owned game studio based in Michigan, making indie 
 
  Distorted Domains | Spectral Sleuths | Supernatural Sapphics
  :-: | :-: | :-:
-[{cover image here}](https://transcendent-tapir.github.io/Distorted-Domains) | [{cover image here}](https://transcendent-tapir.github.io/Spectral-Sleuths) | [![Supernatural Sapphics](images/SupSapph2.png)](https://transtapir.itch.io/supernatural-sapphics)
+[{cover image here}](https://transcendent-tapir.github.io/Distorted-Domains) | [{cover image here}](https://transcendent-tapir.github.io/Spectral-Sleuths) | [![Supernatural Sapphics](images/SupSapph2.png)](https://transtapir.games/supernatural-sapphics)
 A gonzo science fantasy adventure game using Distortion Dice | A game of ordinary people investigating supernatural phenomena using Distortion Dice | A Distortion Dice game about the relationships between creatures of the void and the humans close to them
 
 ### Video Games

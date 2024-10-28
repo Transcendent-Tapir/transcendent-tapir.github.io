@@ -1,4 +1,5 @@
 # Supernatural Sapphics
+
 Supernatural Sapphics is a Distortion Dice role playing game
 for 2 or more Players. One of whom takes the role of the Top,
 who runs the world and many of the characters in it. The
@@ -22,6 +23,8 @@ all players are comfortable and having fun.
 
 We recommend the use of tools like the X-card, Lines & veils,
 and Script Change to help with this.
+
+A pdf of this game is available on [itch](https://transtapir.itch.io/supernatural-sapphics)
 
 ## Bottoms
 ### Stats
