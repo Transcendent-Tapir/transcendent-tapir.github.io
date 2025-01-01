@@ -4,7 +4,9 @@ name: Games
 heading: Transcendent Tapir Games
 ---
 
-## TTRPGS
+## TTRPGs
+
+Transcendent Tapir is a pioneer of the [Distortion Dice](https://pennylescroche.github.io/ttrpgstuff/distortiondice) system, and has many games in development utilizing other systems as well.
 
 ### Finished TTRPGs
 
