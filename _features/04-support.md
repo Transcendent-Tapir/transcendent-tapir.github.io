@@ -1,6 +1,6 @@
 ---
 id: support
-name: support
+name: Where to Buy
 heading: Where to Buy
 ---
 
