@@ -10,7 +10,7 @@ heading: Transcendent Tapir Games
 
 | Supernatural Sapphics |
 | :-: |
-| [![Supernatural Sapphics](images/SupSapph2.png)](https://transtapir.games/supernatural-sapphics) |
+| [![Supernatural Sapphics](images/SupSapph3.png)](https://transtapir.games/supernatural-sapphics) |
 | A Distortion Dice game about the relationships between creatures of the void and the humans close to them |
 
 ### WIP TTRPGs
