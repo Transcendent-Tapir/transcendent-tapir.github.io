@@ -24,7 +24,7 @@ A gonzo science fantasy adventure game using Distortion Dice | A game of ordinar
 
 Glamorous Gladiators | Dealing with Deities | Fortune Favors the Phreaks
  :-----------------: | :------------------: | :------------------------:
-[Glamorous Gladiators](https://transtapir.games/Glamorous-Gladiators) | [Dealing with Deities](https://pennylescroche.github.io/dealing-with-deities) | [Fortune Favors the Phreaks](https://pennylescroche.github.io/fortune-favors)
+[Glamorous Gladiators](https://transtapir.games/Glamorous-Gladiators) | [![Dealing with Deities](images/Dealing_With_Deities_Cover.png)](https://pennylescroche.github.io/dealing-with-deities) | [Fortune Favors the Phreaks](https://pennylescroche.github.io/fortune-favors)
 A game of unusual gladiators fighting for revenge, justice, glory, or honor, and looking good doing it | A GM-less card based game about dramatic dysfunctional demigods | A simple game of hacking and traversing a virtual world powered by the Fortune Favors system from Oakleaf Insignia
 
 ## Video Games
