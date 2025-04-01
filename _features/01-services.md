@@ -12,7 +12,7 @@ Transcendent Tapir is a pioneer of the [Distortion Dice](https://pennylescroche.
 
 | Supernatural Sapphics | Dealing with Deities
 | :-------------------: | :------------------:
-| [![Supernatural Sapphics](images/SupSapph3.png)](https://transtapir.games/supernatural-sapphics) | [![Dealing with Deities](images/Dealing_With_Deities_Cover.png)](https://transtapir.games/dealing-with-deities)
+| [![Supernatural Sapphics](images/SupSapph2.png)](https://transtapir.games/supernatural-sapphics) | [![Dealing with Deities](images/Dealing_With_Deities_Cover.png)](https://transtapir.games/dealing-with-deities)
 | A Distortion Dice game about the relationships between creatures of the void and the humans close to them | A GM-less card based game about dramatic dysfunctional demigods
 
 ### WIP TTRPGs
