@@ -10,10 +10,10 @@ Transcendent Tapir is a pioneer of the [Distortion Dice](https://pennylescroche.
 
 ### Finished TTRPGs
 
-| Supernatural Sapphics |
-| :-: |
-| [![Supernatural Sapphics](images/SupSapph3.png)](https://transtapir.games/supernatural-sapphics) |
-| A Distortion Dice game about the relationships between creatures of the void and the humans close to them |
+| Supernatural Sapphics | Dealing with Deities
+| :-------------------: | :------------------:
+| [![Supernatural Sapphics](images/SupSapph3.png)](https://transtapir.games/supernatural-sapphics) | [![Dealing with Deities](images/Dealing_With_Deities_Cover.png)](https://pennylescroche.games/dealing-with-deities)
+| A Distortion Dice game about the relationships between creatures of the void and the humans close to them | A GM-less card based game about dramatic dysfunctional demigods
 
 ### WIP TTRPGs
 
@@ -22,10 +22,10 @@ Transcendent Tapir is a pioneer of the [Distortion Dice](https://pennylescroche.
 [![Distorted Domains](images/DD%20Logo-Color3.png)](https://transcendent-tapir.github.io/Distorted-Domains) | [Spectral Sleuths](https://transtapir.games/Spectral-Sleuths) | [Prismatic Princesses](https://transtapir.games/Prismatic-Princesses) 
 A gonzo science fantasy adventure game using Distortion Dice | A game of ordinary people investigating supernatural phenomena using Distortion Dice | A game of magical princesses that use their powers to seek justice and protect the innocent 
 
-Glamorous Gladiators | Dealing with Deities | Fortune Favors the Phreaks
- :-----------------: | :------------------: | :------------------------:
-[Glamorous Gladiators](https://transtapir.games/Glamorous-Gladiators) | [![Dealing with Deities](images/Dealing_With_Deities_Cover.png)](https://pennylescroche.github.io/dealing-with-deities) | [Fortune Favors the Phreaks](https://pennylescroche.github.io/fortune-favors)
-A game of unusual gladiators fighting for revenge, justice, glory, or honor, and looking good doing it | A GM-less card based game about dramatic dysfunctional demigods | A simple game of hacking and traversing a virtual world powered by the Fortune Favors system from Oakleaf Insignia
+Glamorous Gladiators | Fortune Favors the Phreaks
+ :-----------------: | :------------------------:
+[Glamorous Gladiators](https://transtapir.games/Glamorous-Gladiators) |  [Fortune Favors the Phreaks](https://pennylescroche.github.io/fortune-favors)
+A game of unusual gladiators fighting for revenge, justice, glory, or honor, and looking good doing it | A simple game of hacking and traversing a virtual world powered by the Fortune Favors system from Oakleaf Insignia
 
 ## Video Games
 
